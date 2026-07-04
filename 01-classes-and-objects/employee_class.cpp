@@ -1,20 +1,31 @@
 /*
 ------------------------------------------------------------
 Title       : Employee Class using C++
-Author      : Prince Sharma
-Repository  : oops-using-cpp
 Folder      : 01-classes-and-objects
-File        : 02_employee_class.cpp
+File        : employee_class.cpp
+
+Purpose:
+To understand the concept of Classes and Objects by
+creating an Employee class.
 
 Description:
-This program demonstrates the concept of Classes and
-Objects by creating an Employee class.
+This program creates an Employee class that stores
+employee information and displays it using member
+functions.
+
+Working:
+1. Create an Employee class.
+2. Declare private data members.
+3. Create public member functions.
+4. Accept employee details from the user.
+5. Display employee information.
 
 Concepts Covered:
 - Class
 - Object
 - Private Data Members
 - Public Member Functions
+- Basic Encapsulation
 ------------------------------------------------------------
 */
 
@@ -26,8 +37,8 @@ using namespace std;
 class Employee
 {
 private:
-    int empId;
-    string empName;
+    int employeeID;
+    string employeeName;
     string department;
     float salary;
 
@@ -35,12 +46,12 @@ public:
     void input()
     {
         cout << "Enter Employee ID : ";
-        cin >> empId;
+        cin >> employeeID;
 
         cin.ignore();
 
         cout << "Enter Employee Name : ";
-        getline(cin, empName);
+        getline(cin, employeeName);
 
         cout << "Enter Department : ";
         getline(cin, department);
@@ -52,10 +63,11 @@ public:
     void display()
     {
         cout << "\n========== Employee Details ==========\n";
-        cout << "Employee ID : " << empId << endl;
-        cout << "Name        : " << empName << endl;
-        cout << "Department  : " << department << endl;
-        cout << "Salary      : Rs. " << salary << endl;
+
+        cout << "Employee ID : " << employeeID << endl;
+        cout << "Employee Name : " << employeeName << endl;
+        cout << "Department : " << department << endl;
+        cout << "Salary : Rs. " << salary << endl;
     }
 };
 
