@@ -1,23 +1,31 @@
 /*
 ------------------------------------------------------------
 Title       : Student Class using C++
-Author      : Prince Sharma
-Repository  : oops-using-cpp
 Folder      : 01-classes-and-objects
 File        : student_class.cpp
 
+Purpose:
+To understand the basic concept of Classes and Objects
+by creating a Student class.
+
 Description:
-This program demonstrates the concept of Classes and Objects
-by creating a Student class with data members and member
-functions.
+This program creates a Student class with private data
+members and public member functions. It accepts student
+details from the user and displays them.
+
+Working:
+1. Create a Student class.
+2. Declare private data members.
+3. Create public member functions.
+4. Accept student details.
+5. Display student information.
 
 Concepts Covered:
 - Class
 - Object
-- Data Members
-- Member Functions
-- Object Creation
-
+- Private Data Members
+- Public Member Functions
+- Basic Encapsulation
 ------------------------------------------------------------
 */
 
@@ -41,7 +49,7 @@ public:
 
         cin.ignore();
 
-        cout << "Enter Name : ";
+        cout << "Enter Student Name : ";
         getline(cin, name);
 
         cout << "Enter Marks : ";
@@ -50,7 +58,7 @@ public:
 
     void display()
     {
-        cout << "\n------ Student Details ------\n";
+        cout << "\n========== Student Details ==========\n";
         cout << "Roll Number : " << rollNo << endl;
         cout << "Name        : " << name << endl;
         cout << "Marks       : " << marks << endl;
