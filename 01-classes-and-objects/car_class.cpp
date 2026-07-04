@@ -2,30 +2,29 @@
 ------------------------------------------------------------
 Title       : Car Class using C++
 Folder      : 01-classes-and-objects
-File        : 03_car_class.cpp
+File        : car_class.cpp
 
 Purpose:
 To understand the concept of Classes and Objects by
 creating a Car class.
 
 Description:
-This program creates a Car class with private data members
-and public member functions. It accepts car details from
-the user and displays them.
+This program creates a Car class that stores car
+information and displays it using member functions.
 
 Working:
 1. Create a Car class.
 2. Declare private data members.
 3. Create public member functions.
 4. Accept car details from the user.
-5. Display the entered details.
+5. Display car information.
 
 Concepts Covered:
 - Class
 - Object
 - Private Data Members
 - Public Member Functions
-- Encapsulation (Basic)
+- Basic Encapsulation
 ------------------------------------------------------------
 */
 
@@ -37,7 +36,7 @@ using namespace std;
 class Car
 {
 private:
-    int carId;
+    int carID;
     string brand;
     string model;
     int year;
@@ -47,7 +46,7 @@ public:
     void input()
     {
         cout << "Enter Car ID : ";
-        cin >> carId;
+        cin >> carID;
 
         cin.ignore();
 
@@ -67,11 +66,12 @@ public:
     void display()
     {
         cout << "\n========== Car Details ==========\n";
-        cout << "Car ID      : " << carId << endl;
-        cout << "Brand       : " << brand << endl;
-        cout << "Model       : " << model << endl;
-        cout << "Year        : " << year << endl;
-        cout << "Price       : Rs. " << price << endl;
+
+        cout << "Car ID : " << carID << endl;
+        cout << "Brand : " << brand << endl;
+        cout << "Model : " << model << endl;
+        cout << "Manufacturing Year : " << year << endl;
+        cout << "Price : Rs. " << price << endl;
     }
 };
 
