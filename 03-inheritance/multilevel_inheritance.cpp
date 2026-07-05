@@ -9,15 +9,15 @@ To understand the concept of Multilevel Inheritance
 in C++.
 
 Description:
-This program demonstrates how inheritance can occur
-across multiple levels. A class inherits from another
-derived class.
+This program demonstrates how a class inherits from
+another derived class, forming a chain of inheritance.
 
 Working:
 1. Create a base class Person.
 2. Create Student derived from Person.
 3. Create Result derived from Student.
-4. Accept and display complete student information.
+4. Accept student details.
+5. Display complete result information.
 
 Concepts Covered:
 - Multilevel Inheritance
@@ -40,6 +40,7 @@ protected:
     int age;
 
 public:
+
     void inputPerson()
     {
         cin.ignore();
@@ -65,6 +66,7 @@ protected:
     int rollNo;
 
 public:
+
     void inputStudent()
     {
         cout << "Enter Roll Number : ";
@@ -88,6 +90,7 @@ private:
     float marks;
 
 public:
+
     void inputResult()
     {
         inputStudent();
@@ -108,11 +111,11 @@ public:
 
 int main()
 {
-    Result student;
+    Result student1;
 
-    student.inputResult();
+    student1.inputResult();
 
-    student.displayResult();
+    student1.displayResult();
 
     return 0;
 }
