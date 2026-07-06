@@ -5,7 +5,7 @@ Folder      : 02-constructors-and-destructors
 File        : constructor_initialization_list.cpp     
         
 Purpose:     
-To understand the concept of Constructor Initialization  
+To understand the concept of Constructor Initialization   
 Lists in C++.
  
 Description:
