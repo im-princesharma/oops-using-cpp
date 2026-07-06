@@ -5,7 +5,7 @@ Folder      : 01-classes-and-objects
 File        : array_of_objects.cpp 
   
 Purpose:   
-To understand how to create and use an array of     
+To understand how to create and use an array of      
 objects in C++.   
 
 Description: 
