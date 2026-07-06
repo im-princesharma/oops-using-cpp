@@ -4,7 +4,7 @@ Title       : Array of Objects using C++
 Folder      : 01-classes-and-objects
 File        : array_of_objects.cpp 
       
-Purpose:      
+Purpose:       
 To understand how to create and use an array of          
 objects in C++.    
 
