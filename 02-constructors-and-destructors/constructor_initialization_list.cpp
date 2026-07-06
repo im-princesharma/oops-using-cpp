@@ -9,7 +9,7 @@ To understand the concept of Constructor Initialization
 Lists in C++.
 
 Description:
-This program demonstrates how data members can be
+This program demonstrates how data members can be 
 initialized efficiently using a constructor
 initialization list instead of assigning values inside
 the constructor body.
