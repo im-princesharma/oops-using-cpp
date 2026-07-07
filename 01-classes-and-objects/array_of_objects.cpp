@@ -12,7 +12,7 @@ Description:
 This program creates an array of Student objects, 
 accepts details for multiple students, and displays 
 their information.  
-
+ 
 Working: 
 1. Create a Student class.
 2. Declare an array of Student objects.
