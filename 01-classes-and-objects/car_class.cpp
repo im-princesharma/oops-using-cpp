@@ -19,7 +19,7 @@ Working:
 4. Accept car details from the user.
 5. Display car information. 
 
-Concepts Covered:
+Concepts Covered: 
 - Class
 - Object
 - Private Data Members
