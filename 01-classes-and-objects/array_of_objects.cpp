@@ -10,7 +10,7 @@ objects in C++.
    
 Description:    
 This program creates an array of Student objects, 
-accepts details for multiple students, and displays
+accepts details for multiple students, and displays 
 their information.  
 
 Working: 
