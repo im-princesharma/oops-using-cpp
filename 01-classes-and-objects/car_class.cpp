@@ -14,7 +14,7 @@ information and displays it using member functions.
 
 Working:
 1. Create a Car class.
-2. Declare private data members.
+2. Declare private data members. 
 3. Create public member functions.
 4. Accept car details from the user.
 5. Display car information. 
