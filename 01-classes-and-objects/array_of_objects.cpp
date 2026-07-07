@@ -7,7 +7,7 @@ File        : array_of_objects.cpp
 Purpose:          n
 To understand how to create and use an array of             
 objects in C++.     
-  
+   
 Description:    
 This program creates an array of Student objects, 
 accepts details for multiple students, and displays
