@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------------------  
-Title       : Array of Objects using C++ 
+Title       : Array of Objects using C++  
 Folder      : 01-classes-and-objects
 File        : array_of_objects.cpp  
        
