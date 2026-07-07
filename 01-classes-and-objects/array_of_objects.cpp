@@ -17,7 +17,7 @@ Working:
 1. Create a Student class.
 2. Declare an array of Student objects.
 3. Accept details for each student.
-4. Display all student records.
+4. Display all student records. 
 
 Concepts Covered:
 - Class
