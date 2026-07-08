@@ -6,7 +6,7 @@ File        : readonly_object.cpp
  
 Purpose:
 To understand how const member functions allow  
-read-only access to object data.
+read-only access to object data. 
 
 Description:
 This program demonstrates how const member
