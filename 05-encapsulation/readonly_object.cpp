@@ -2,7 +2,7 @@
 ------------------------------------------------------------
 Title       : Read-Only Object using Const Member Function
 Folder      : 05-encapsulation
-File        : readonly_object.cpp
+File        : readonly_object.cpp 
  
 Purpose:
 To understand how const member functions allow
