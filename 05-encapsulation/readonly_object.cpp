@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------------------    
-Title       : Read-Only Object using Const Member Function 
+Title       : Read-Only Object using Const Member Function  
 Folder      : 05-encapsulation    
 File        : readonly_object.cpp    
   
