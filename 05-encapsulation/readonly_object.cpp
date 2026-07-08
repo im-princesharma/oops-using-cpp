@@ -8,7 +8,7 @@ Purpose:
 To understand how const member functions allow    
 read-only access to object data. 
 
-Description:
+Description: 
 This program demonstrates how const member
 functions can be used to safely access data
 without modifying the object's state.
