@@ -9,7 +9,7 @@ To demonstrate Encapsulation using a real-world
 ATM Account Management System.    
   
 Description:
-This program shows how account information is
+This program shows how account information is 
 protected using private data members while
 public member functions provide secure banking
 operations such as deposit, withdrawal and
