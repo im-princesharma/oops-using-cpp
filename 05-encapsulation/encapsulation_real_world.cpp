@@ -1,7 +1,7 @@
 /*
 ------------------------------------------------------------
 Title       : Real-World Encapsulation Example 
-Folder      : 05-encapsulation  
+Folder      : 05-encapsulation   
 File        : encapsulation_real_world.cpp    
  
 Purpose:   
