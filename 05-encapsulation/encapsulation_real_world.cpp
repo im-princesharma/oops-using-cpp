@@ -14,7 +14,7 @@ protected using private data members while
 public member functions provide secure banking
 operations such as deposit, withdrawal and
 balance enquiry.
-
+  
 Working:
 1. Create an ATMAccount class.
 2. Keep account details private.
