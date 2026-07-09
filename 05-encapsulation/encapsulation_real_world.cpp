@@ -6,7 +6,7 @@ File        : encapsulation_real_world.cpp
  
 Purpose:   
 To demonstrate Encapsulation using a real-world  
-ATM Account Management System.  
+ATM Account Management System.   
  
 Description:
 This program shows how account information is
