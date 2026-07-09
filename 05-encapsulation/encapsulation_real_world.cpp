@@ -3,7 +3,7 @@
 Title       : Real-World Encapsulation Example 
 Folder      : 05-encapsulation   
 File        : encapsulation_real_world.cpp    
-    
+     
 Purpose:     
 To demonstrate Encapsulation using a real-world  
 ATM Account Management System.    
