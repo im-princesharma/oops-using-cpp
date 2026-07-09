@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------------------
-Title       : Real-World Encapsulation Example
+Title       : Real-World Encapsulation Example 
 Folder      : 05-encapsulation
 File        : encapsulation_real_world.cpp 
 
