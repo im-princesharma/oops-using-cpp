@@ -13,7 +13,7 @@ automatically called when an object goes out of scope
 or when the program terminates.
  
 Working:
-1. Create a Student class.
+1. Create a Student class. 
 2. Define a constructor.
 3. Define a destructor.
 4. Create an object.
