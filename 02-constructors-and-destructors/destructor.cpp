@@ -8,7 +8,7 @@ Purpose:
 To understand the concept of a Destructor in C++.  
 
 Description:   
-This program demonstrates how a destructor is
+This program demonstrates how a destructor is 
 automatically called when an object goes out of scope
 or when the program terminates.
 
