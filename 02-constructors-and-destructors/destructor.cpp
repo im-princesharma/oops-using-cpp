@@ -5,7 +5,7 @@ Folder      : 02-constructors-and-destructors
 File        : destructor.cpp    
     
 Purpose: 
-To understand the concept of a Destructor in C++.      
+To understand the concept of a Destructor in C++.       
   
 Description:   
 This program demonstrates how a destructor is 
