@@ -2,7 +2,7 @@
 ------------------------------------------------------------
 Title       : Destructor using C++
 Folder      : 02-constructors-and-destructors  
-File        : destructor.cpp     
+File        : destructor.cpp      
      
 Purpose:  
 To understand the concept of a Destructor in C++.       
