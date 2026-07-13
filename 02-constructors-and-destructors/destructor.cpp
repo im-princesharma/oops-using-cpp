@@ -1,7 +1,7 @@
 /* 
 ------------------------------------------------------------
 Title       : Destructor using C++
-Folder      : 02-constructors-and-destructors 
+Folder      : 02-constructors-and-destructors  
 File        : destructor.cpp   
    
 Purpose: 
