@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------------------
-Title       : Bank Account Class using C++ 
+Title       : Bank Account Class using C++  
 Folder      : 01-classes-and-objects  
 File        : bank_account.cpp 
  
