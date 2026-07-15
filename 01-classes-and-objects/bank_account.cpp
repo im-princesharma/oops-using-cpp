@@ -13,7 +13,7 @@ This program creates a BankAccount class that stores
 account information. It allows the user to deposit   
 and withdraw money while maintaining the account balance. 
 
-Working:
+Working:  
 1. Create a BankAccount class. 
 2. Accept account details.   
 3. Display a menu.
