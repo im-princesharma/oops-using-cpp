@@ -11,7 +11,7 @@ banking operations such as deposit and withdrawal.
 Description: 
 This program creates a BankAccount class that stores   
 account information. It allows the user to deposit   
-and withdraw money while maintaining the account balance.
+and withdraw money while maintaining the account balance. 
 
 Working:
 1. Create a BankAccount class. 
