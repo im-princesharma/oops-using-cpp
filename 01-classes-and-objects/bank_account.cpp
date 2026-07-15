@@ -9,7 +9,7 @@ To understand how member functions can perform
 banking operations such as deposit and withdrawal. 
 
 Description: 
-This program creates a BankAccount class that stores   
+This program creates a BankAccount class that stores    
 account information. It allows the user to deposit   
 and withdraw money while maintaining the account balance. 
 
