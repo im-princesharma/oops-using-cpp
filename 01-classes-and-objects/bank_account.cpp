@@ -14,7 +14,7 @@ account information. It allows the user to deposit
 and withdraw money while maintaining the account balance.
 
 Working:
-1. Create a BankAccount class.
+1. Create a BankAccount class. 
 2. Accept account details.  
 3. Display a menu.
 4. Perform Deposit or Withdraw operation. 
