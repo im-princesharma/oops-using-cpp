@@ -17,7 +17,7 @@ Working:
 1. Create a BankAccount class.
 2. Accept account details.  
 3. Display a menu.
-4. Perform Deposit or Withdraw operation.
+4. Perform Deposit or Withdraw operation. 
 5. Display updated account information.
 
 Concepts Covered:
