@@ -1,7 +1,7 @@
 /*  
 ------------------------------------------------------------                       
 Title       : Destructor in Inheritance using C++   
-Folder      : 03-inheritance 
+Folder      : 03-inheritance  
 File        : destructor_in_inheritance.cpp 
 
 Purpose: 
