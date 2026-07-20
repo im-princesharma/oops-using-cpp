@@ -4,7 +4,7 @@ Title       : Destructor in Inheritance using C++
 Folder      : 03-inheritance
 File        : destructor_in_inheritance.cpp
 
-Purpose:
+Purpose: 
 To understand how destructors are executed
 in inheritance.
 
