@@ -6,7 +6,7 @@ File        : destructor_in_inheritance.cpp
 
 Purpose: 
 To understand how destructors are executed
-in inheritance.
+in inheritance. 
 
 Description:
 This program demonstrates that when a derived
