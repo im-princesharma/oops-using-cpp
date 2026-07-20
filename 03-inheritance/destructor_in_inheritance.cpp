@@ -10,7 +10,7 @@ in inheritance.
 
 Description:
 This program demonstrates that when a derived
-class object is destroyed, the derived class
+class object is destroyed, the derived class 
 destructor is called first, followed by the
 base class destructor.
 
