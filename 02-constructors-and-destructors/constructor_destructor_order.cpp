@@ -11,7 +11,7 @@ destructors are executed.
 Description: 
 This program creates multiple objects of a class.
 Constructors are called in the order objects are
-created, while destructors are called in the reverse
+created, while destructors are called in the reverse 
 order when the program ends.
 
 Working:
