@@ -1,5 +1,5 @@
 /*
-------------------------------------------------------------   
+------------------------------------------------------------    
 Title       : Constructor and Destructor Order using C++
 Folder      : 02-constructors-and-destructors
 File        : constructor_destructor_order.cpp 
@@ -8,7 +8,7 @@ Purpose:
 To understand the order in which constructors and
 destructors are executed.
 
-Description:
+Description: 
 This program creates multiple objects of a class.
 Constructors are called in the order objects are
 created, while destructors are called in the reverse
