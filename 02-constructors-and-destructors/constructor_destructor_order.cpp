@@ -18,7 +18,7 @@ Working:
 1. Create a Student class.
 2. Define a constructor.
 3. Define a destructor.
-4. Create multiple objects.
+4. Create multiple objects.  
 5. Observe the execution order.
 
 Concepts Covered:
