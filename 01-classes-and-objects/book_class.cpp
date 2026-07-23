@@ -22,7 +22,7 @@ Working:
 
 Concepts Covered:  
 - Class
-- Object
+- Object 
 - Private Data Members 
 - Public Member Functions
 - String Handling 
