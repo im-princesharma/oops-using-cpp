@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------------------   
-Title       : Book Class using C++
+Title       : Book Class using C++  
 Folder      : 01-classes-and-objects  
 File        : book_class.cpp
 
