@@ -1,7 +1,7 @@
 /*
 ------------------------------------------------------------
 Title       : Dynamic Constructor using C++
-Folder      : 02-constructors-and-destructors
+Folder      : 02-constructors-and-destructors 
 File        : dynamic_constructor.cpp
 
 Purpose:
