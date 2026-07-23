@@ -2,7 +2,7 @@
 ------------------------------------------------------------       
 Title       : Book Class using C++   
 Folder      : 01-classes-and-objects  
-File        : book_class.cpp  
+File        : book_class.cpp   
 
 Purpose:
 To understand how Classes and Objects can be used to 
