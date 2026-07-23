@@ -5,7 +5,7 @@ Folder      : 01-classes-and-objects
 File        : book_class.cpp
 
 Purpose:
-To understand how Classes and Objects can be used to
+To understand how Classes and Objects can be used to 
 store and display book information.
 
 Description: 
