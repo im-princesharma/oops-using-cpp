@@ -20,7 +20,7 @@ Working:
 4. Accept book details from the user.
 5. Display the entered information.  
 
-Concepts Covered:
+Concepts Covered:  
 - Class
 - Object
 - Private Data Members
