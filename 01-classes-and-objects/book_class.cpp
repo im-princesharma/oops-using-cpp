@@ -16,7 +16,7 @@ details from the user and displays them.
 Working:
 1. Create a Book class. 
 2. Declare private data members.  
-3. Create input() and display() functions. 
+3. Create input() and display() functions.  
 4. Accept book details from the user.
 5. Display the entered information.  
 
