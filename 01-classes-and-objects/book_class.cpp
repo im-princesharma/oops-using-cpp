@@ -10,7 +10,7 @@ store and display book information.
 
 Description: 
 This program creates a Book class with private data
-members and public member functions. It accepts book
+members and public member functions. It accepts book 
 details from the user and displays them.
 
 Working:
