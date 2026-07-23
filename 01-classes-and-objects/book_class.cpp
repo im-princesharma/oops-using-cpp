@@ -18,7 +18,7 @@ Working:
 2. Declare private data members. 
 3. Create input() and display() functions.
 4. Accept book details from the user.
-5. Display the entered information.
+5. Display the entered information.  
 
 Concepts Covered:
 - Class
