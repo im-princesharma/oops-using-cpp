@@ -1,5 +1,5 @@
 /*
-------------------------------------------------------------
+------------------------------------------------------------ 
 Title       : Private Data Members using C++
 Folder      : 05-encapsulation
 File        : private_data_members.cpp 
